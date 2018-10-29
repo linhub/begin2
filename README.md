@@ -1,3 +1,3 @@
-# simbegin
+# beginhu
 知更鸟主题衍生版，基于原版创作
 lalala...
