@@ -1,8 +1,6 @@
 # begin2 更新记录
 
-√ 主题头像调用代码在 inc/function/function.php 里面，修改默认头像mm为wavatar，只要是主题对全球头像进行了干涉的，后台的设置头像信息将全部失效，且变成主题图片；<br/>
-√ 侧栏浮动跟随 js 的位置为 js/sticky.js 最后五行代码。<br/>
-√ 弹出层效果 js/script.js 位置，包含左上角顶部管理悬浮和分享代码的悬浮显示；
+主题头像调用代码在 inc/function/function.php 里面，修改默认头像mm为wavatar，只要是主题对全球头像进行了干涉的，后台的设置头像信息将全部失效，且变成主题图片；侧栏浮动跟随 js 的位置为 js/sticky.js 最后五行代码。弹出层效果 js/script.js 位置，包含左上角顶部管理悬浮和分享代码的悬浮显示；
 
 2018年10月30日：修改管理员回复的 admin 样式，去掉 vertical-align: super; 和头像抖动；<br/>
 2018年10月28日：增加评论邮件回复的服务器参数到 functions.php 内，实现评论邮件回复；<br/>
