@@ -27,3 +27,15 @@
 	100% {-webkit-transform: translateY(0);
 		transform: translateY(0);}
 }
+
+特别标记的使用 <span class="title-l"></span>
+配套css为这样：
+.title-l {
+	position: absolute;
+	background: #666;
+	top: 20px;
+	left: -1px;
+	width: 5px;
+	height: 25px;
+	box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+}
